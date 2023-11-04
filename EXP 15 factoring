@@ -33,4 +33,5 @@ modifiedGram[++k]='\0';
 newGram[j]='\0';
 printf("\n A->%s",modifiedGram);
 printf("\n X->%s\n",newGram);
+
 }

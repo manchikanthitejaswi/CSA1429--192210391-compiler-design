@@ -4,7 +4,7 @@
         }
     }
 
-    printf("Identifiers: ");
+ printf("Identifiers: ");
     for (int j = 0; j < ic; j++) {
         printf("%c ", identifiers[j])
 #include <ctype.h>
